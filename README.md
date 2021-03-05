@@ -8,4 +8,4 @@
 <img src = "https://user-images.githubusercontent.com/67107675/110058863-838c8680-7da6-11eb-88f8-b274cf5dceca.png" width ="70%">
 
 ## 2. Code 
-[- PyTorch implementation of StyleGAN model](https://colab.research.google.com/github/sejin-sim/StyleGAN/blob/main/StyleGAN_Implementations_by_Pytorch.ipynb)
+### [- PyTorch implementation of StyleGAN model](https://colab.research.google.com/github/sejin-sim/StyleGAN/blob/main/StyleGAN_Implementations_by_Pytorch.ipynb)
